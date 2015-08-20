@@ -1,9 +1,9 @@
 import webbrowser
+#Here is my movie class where I am using the init function
 class Movie():
     """
     The class movie will call on 4 arguments, movie title, storyline, image, and youtube.
     Movie class is for many elements inside one class of the Movie folder
-    
     """
     def __init__(self, movie_title, movie_storyline, poster_image, trailer_youtube):
         self.title = movie_title
