@@ -34,6 +34,7 @@ the_wolf_on_wall_street = media.Movie ("The Wolf on Wallstreet",
                             "http://ia.media-imdb.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_SX214_AL_.jpg",
                             "https://www.youtube.com/watch?v=iszwuX1AK6A")
 
-movies = [toy_story, mad_max,the_hateful_eight, i_am_legend, devil_wears_prada, the_wolf_on_wall_street]
+movies = [toy_story, mad_max,the_hateful_eight, i_am_legend, 
+          devil_wears_prada, the_wolf_on_wall_street]
 
 fresh_tomatoes.open_movies_page(movies)
