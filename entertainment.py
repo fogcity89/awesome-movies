@@ -15,7 +15,7 @@ mad_max = media.Movie("Mad Max",
 
 the_hateful_eight= media.Movie("The Hateful Eight",
                   "The new Quentin Tarentino moive staring Samuel L. Jackson!!",
-                  "http://emertainmentmonthly.com/wp-content/uploads/2014/11/10575455_634561563308145_3740120470904440493_o.jpg"
+                  "http://emertainmentmonthly.com/wp-content/uploads/2014/11/10575455_634561563308145_3740120470904440493_o.jpg",
                   "https://www.youtube.com/watch?v=nIOmotayDMY")
 
 
